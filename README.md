@@ -1,1 +1,3 @@
-# fasta
+# Fasta
+
+Updating README
